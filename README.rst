@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FitsScout2%2Fopenvpn3_.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FitsScout2%2Fopenvpn3_?ref=badge_shield)
+
 OpenVPN 3
 =========
 
@@ -606,3 +608,7 @@ License
 -------
 
 See `<LICENSE.rst>`_.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FitsScout2%2Fopenvpn3_.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FitsScout2%2Fopenvpn3_?ref=badge_large)
